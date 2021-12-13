@@ -14,3 +14,51 @@ fix() {
         gaa && gcm "$@" && gps
 }
 
+**LINKS DE APRENDIZAGEM**
+-
+*LINKS DE TESTES E APLICAÇÕES PRÁTICAS*
+
+- [https://github.com/justeat/JustEat.RecruitmentTest/blob/master/Test.DevOps.Engineer.md]
+- [https://github.com/tonybenchsci/senior_devops_interview]
+- [https://github.com/apetrovYa/interview-devops-engineer]
+- [https://github.com/buildit/devops-test]
+- [https://github.com/foreseecode/devops-tech-test]
+- [https://github.com/Shorthand/devops-engineer-test]
+- [https://github.com/coding-boot-camp/cybersecurity-devops-assessment]
+- [https://github.com/QT-DevOps/assessment]
+
+AWS Solutions Architect Associate
+
+- [https://lnkd.in/dPRkJxf6]
+
+**DB E REPOS DE MATERIAL DE CONHECIMENTO**
+-
+-Pratica de ArgCD e Kubernetes
+- [https://www.youtube.com/watch?v=k1GeGLlqZBU ]
+
+-Apresentação OGG
+- [https://docs.google.com/presentation/d/1JQuA68m5TWcri5vPc04qAkPD9yrOe0VxqBQ21b_3k0Q/edit?usp=sharing]
+
+-ITIL
+
+- [https://victorops.com/blog/itil-4-and-incident-response]
+
+- [https://victorops.com/blog/devops-vs-itil-incident-management-process-flow]
+
+-Ansible Básico
+
+- [https://github.com/4linux/ansible-basico]
+
+- [https://www.youtube.com/watch?v=9Lx6bCs4nJo]
+
+-Entendendo GIT - Akita
+
+parte 1: [https://www.youtube.com/watch?v=6Czd1Yetaac]
+
+parte 2: [https://www.youtube.com/watch?v=6OokP-NE49k]
+
+-Livros gratis DevOps
+
+- [https://github.com/jidibinlin/Free-DevOps-Books-1]
+
+TODO
