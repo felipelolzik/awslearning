@@ -1,4 +1,4 @@
--Fix para Git
+- Fix para Git
 
 # Git aliases
 alias gaa='git add -A'
@@ -13,6 +13,7 @@ alias gst='git status'
 fix() {
         gaa && gcm "$@" && gps
 }
+
 
 **LINKS DE APRENDIZAGEM**
 -
